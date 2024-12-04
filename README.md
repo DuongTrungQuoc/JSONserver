@@ -1,16 +1,16 @@
-# JSON server
+# 👾JSON server
 
-## Khái niệm
+## 📖Khái niệm
 
 **Json server** hiểu đơn giản là một server trả về các dữ liệu dưới dạng json. Dùng để fake API.
 
-## Yêu cầu
+## 📖Yêu cầu
 
 ⚙ Cài đặt trước nodejs vào máy tính, gõ npm -v để xem phiên bản.
 
 ⚙ Cài đặt Postman để thử tính năng thêm, sửa, xóa dữ liệu.
 
-## Hướng dẫn cài đặt
+## 📖Hướng dẫn cài đặt
 
 ⚙ Tạo tệp database - > Gõ npm init để khởi tạo file package.json (Chứa những thông tin các gói đã cài đặt, nếu có file package.json rồi thì thôi, nếu không cứ bấm enter)
 
