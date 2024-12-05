@@ -39,7 +39,7 @@
 ⚙ Chạy lệnh npm start
 
 <p align="start">
-  <img src="https://github.com/user-attachments/assets/24b42c39-baac-4114-96c6-d057c17fa491" {height=200px}>
+  <img src="https://github.com/user-attachments/assets/24b42c39-baac-4114-96c6-d057c17fa491" {width=35px height=200px}>
 </p>
 
 
